@@ -1,6 +1,10 @@
 # image-generator
 A simple python image generator
 
+to use it just install pillow
+
+
+```pip install -r pillow``` 
 ## Demos
 ![r1x1](https://github.com/nixietab/image-generator/assets/75538775/9f4e2e81-feb4-4f30-addd-3dc980cefa3a)
 ![r2x2](https://github.com/nixietab/image-generator/assets/75538775/7d32dd74-9a24-4b18-a48a-a0b4daef1cc8)
